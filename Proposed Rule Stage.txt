@@ -1,0 +1,15 @@
+
+Proposed Rule Stage
+Notice of Proposed Rulemaking
+
+After an agency researches the issues and determines whether a new Rule is necessary, it often proposes a regulation, also known as a Notice of Proposed Rulemaking (NPRM). Typically these proposals are published in the Federal Register (FR) and made publicly available in print and on-line at http://www.federalregister.gov so that they are readily accessible to the public.
+Public comment period
+
+During this phase of the rulemaking process, agencies accept public comments via Regulations.gov. Some agencies also accept comments by mail, fax, or email. In a typical case, an agency will allow 60 days for public comment. However, in some cases they provide either shorter or longer comment periods. An agency may receive no comments or as many as thousands of comments or more.
+
+Some public comments contain one-sentence or one-paragraph comments, while others contain thousands of pages with detailed analysis, with supporting documents submitted as attachments.
+Docket
+
+The rulemaking docket (known on Regulations.gov as a Docket Folder) contains all of an agency’s relevant rulemaking materials (e.g., NPRM, hearing Notices, extensions of comment period, and Final Rule), supporting documents (e.g., economic and environmental analyses), studies and other references, all public comments, and other relevant documents.
+
+The public dockets for agency rulemakings can be found at Regulations.gov. You can access any electronic docket on this site by searching with a unique identifier such as the docket number or ID, Regulation Identifier Number (RIN), or even a keyword. Agencies include the docket number or ID on most Federal Register documents, and when applicable a RIN is included. RINs are also used in the Unified Agenda to identify agencies’ rulemakings.
